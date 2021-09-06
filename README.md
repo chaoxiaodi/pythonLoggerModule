@@ -7,3 +7,6 @@ python logger module
 定义了5个级别
 
 同时输出到文件和控制台
+
+日志输出为可被json解析的格式
+
